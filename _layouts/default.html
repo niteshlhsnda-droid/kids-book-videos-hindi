@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | escape }} — मीठे सपनों की कहानियाँ</title>
+<meta name="description" content="4–7 साल के बच्चों के लिए प्यारी सचित्र सुलाने वाली कहानियाँ।">
+{% include head-custom.html %}
+<link rel="stylesheet" href="{{ '/assets/css/storybook.css' | relative_url }}">
+</head>
+<body class="storybook">
+{{ content }}
+<footer class="site-foot">
+  <div class="hearts">🌙 📚 ✨</div>
+  <p>मीठे सपनों की कहानियाँ — 4–7 साल के बच्चों के लिए।<br>रोज़ नई कहानियाँ जुड़ती हैं।</p>
+</footer>
+</body>
+</html>
