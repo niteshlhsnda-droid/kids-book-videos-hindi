@@ -5,7 +5,7 @@ title: मीठे सपनों की कहानियाँ
 
 # 🌙 मीठे सपनों की कहानियाँ
 
-4–7 साल के बच्चों के लिए 103 मूल हिंदी सुलाने वाली कहानियाँ। कहानी पढ़ने के लिए शीर्षक पर क्लिक करें।
+4–7 साल के बच्चों के लिए 109 हिंदी सुलाने वाली कहानियाँ — 103 मूल कहानियाँ और 6 कालजयी क्लासिक कहानियाँ। कहानी पढ़ने के लिए शीर्षक पर क्लिक करें।
 
 ---
 
@@ -114,3 +114,16 @@ title: मीठे सपनों की कहानियाँ
 - [सीटी बजाने वाली हवा](stories/whistle-the-wind.html)
 - [आसमान क्यों शर्माता है](stories/why-the-sky-blushes.html)
 - [पिंकी और नन्हा लेडीबग](stories/zara-and-the-tiny-ladybird.html)
+
+---
+
+## क्लासिक कहानियाँ
+
+पंचतंत्र और लोककथाओं की कालजयी कहानियाँ — सुलाने के अंदाज़ में, बिल्कुल अलग अंदाज़ में।
+
+- [नीला सियार](stories/classic-neela-siyar.html)
+- [चतुर खरगोश और शेर](stories/classic-chatur-khargosh-aur-sher.html)
+- [बंदर और मगरमच्छ](stories/classic-bandar-aur-magarmachh.html)
+- [कछुआ और हंस](stories/classic-kachhua-aur-hans.html)
+- [अकबर और बीरबल: कौओं की गिनती](stories/classic-akbar-birbal-kauon-ki-ginti.html)
+- [तेनाली रामा और चोर](stories/classic-tenali-rama-aur-chor.html)
