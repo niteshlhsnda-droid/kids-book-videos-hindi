@@ -2,6 +2,7 @@
 layout: default
 title: मीठे सपनों की कहानियाँ
 ---
+<!-- BUILD-MARKER 2026-09-25 18:15 IST: full 3-section homepage (night/bedtime/classic), 135 cards -->
 
 <div class="hero">
   <span class="moon">🌙</span>
