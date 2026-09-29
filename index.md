@@ -6,12 +6,12 @@ title: मीठे सपनों की कहानियाँ
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>मीठे सपनों की कहानियाँ</h1>
-  <p class="tagline">4–7 साल के बच्चों के लिए 109 हिंदी सुलाने वाली कहानियाँ — 103 मूल कहानियाँ और 6 कालजयी क्लासिक कहानियाँ।</p>
+  <p class="tagline">4–7 साल के बच्चों के लिए 117 हिंदी सुलाने वाली कहानियाँ — 111 मूल कहानियाँ और 6 कालजयी क्लासिक कहानियाँ।</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 कहानी खोजें…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 109 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
+  <p class="stats">📚 117 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
   
 </div>
 
@@ -29,6 +29,119 @@ title: मीठे सपनों की कहानियाँ
 
 <main class="shelf">
 <div class="no-results" id="no-results">😴 कोई कहानी नहीं मिली — कोई और शब्द आज़माएँ!</div>
+
+<!-- DAILY-NEW-START -->
+<section class="category cat-new" id="cat-new">
+  <h2>🆕 नई कहानियाँ</h2>
+  <p class="desc">हर दिन ताज़ा — सबसे नई कहानी सबसे पहले।</p>
+  <div class="cards">
+<article class="story-card" data-search="विली विंकी और ऊँघता शहर 2026-09-29-willie-winkie-and-the-sleepy-town">
+  <a class="card-art" href="stories/2026-09-29-willie-winkie-and-the-sleepy-town.html" aria-label="विली विंकी और ऊँघता शहर">
+    <span class="fallback" aria-hidden="true">🌙</span>
+    <img src="book/colorful-illustrations/2026-09-29-willie-winkie-and-the-sleepy-town/scene-01-cover.webp" alt="विली विंकी और ऊँघता शहर — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-09-29-willie-winkie-and-the-sleepy-town.html">विली विंकी और ऊँघता शहर</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-09-29-willie-winkie-and-the-sleepy-town.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%B5%E0%A4%BF%E0%A4%B2%E0%A5%80%20%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%95%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%8A%E0%A4%81%E0%A4%98%E0%A4%A4%E0%A4%BE%20%E0%A4%B6%E0%A4%B9%E0%A4%B0%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-09-29-willie-winkie-and-the-sleepy-town.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="पॉपी साही और पैबंद वाली रज़ाई 2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt">
+  <a class="card-art" href="stories/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.html" aria-label="पॉपी साही और पैबंद वाली रज़ाई">
+    <span class="fallback" aria-hidden="true">🦔</span>
+    <img src="book/colorful-illustrations/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt/scene-01-cover.webp" alt="पॉपी साही और पैबंद वाली रज़ाई — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.html">पॉपी साही और पैबंद वाली रज़ाई</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AA%E0%A5%89%E0%A4%AA%E0%A5%80%20%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A5%88%E0%A4%AC%E0%A4%82%E0%A4%A6%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%B0%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%88%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="राजकुमार मिलो और नन्ही सफ़ेद बिल्ली 2026-09-27-prince-milo-and-the-little-white-cat">
+  <a class="card-art" href="stories/2026-09-27-prince-milo-and-the-little-white-cat.html" aria-label="राजकुमार मिलो और नन्ही सफ़ेद बिल्ली">
+    <span class="fallback" aria-hidden="true">🐱</span>
+    <img src="book/colorful-illustrations/2026-09-27-prince-milo-and-the-little-white-cat/scene-01-cover.webp" alt="राजकुमार मिलो और नन्ही सफ़ेद बिल्ली — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-09-27-prince-milo-and-the-little-white-cat.html">राजकुमार मिलो और नन्ही सफ़ेद बिल्ली</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-09-27-prince-milo-and-the-little-white-cat.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0%20%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A5%8B%20%E0%A4%94%E0%A4%B0%20%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%80%20%E0%A4%B8%E0%A4%AB%E0%A4%BC%E0%A5%87%E0%A4%A6%20%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-09-27-prince-milo-and-the-little-white-cat.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="विलो व्हेल और चाँदनी का गीत 2026-09-26-willow-the-whale-and-the-moonlit-song">
+  <a class="card-art" href="stories/2026-09-26-willow-the-whale-and-the-moonlit-song.html" aria-label="विलो व्हेल और चाँदनी का गीत">
+    <span class="fallback" aria-hidden="true">🐳</span>
+    <img src="book/colorful-illustrations/2026-09-26-willow-the-whale-and-the-moonlit-song/scene-01-cover.webp" alt="विलो व्हेल और चाँदनी का गीत — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-09-26-willow-the-whale-and-the-moonlit-song.html">विलो व्हेल और चाँदनी का गीत</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-09-26-willow-the-whale-and-the-moonlit-song.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%B5%E0%A4%BF%E0%A4%B2%E0%A5%8B%20%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%9A%E0%A4%BE%E0%A4%81%E0%A4%A6%E0%A4%A8%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%97%E0%A5%80%E0%A4%A4%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-09-26-willow-the-whale-and-the-moonlit-song.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="हूफ़ी ऊँट और मददगार कूबड़ 2026-09-25-hoofy-the-camel-and-the-helpful-hump">
+  <a class="card-art" href="stories/2026-09-25-hoofy-the-camel-and-the-helpful-hump.html" aria-label="हूफ़ी ऊँट और मददगार कूबड़">
+    <span class="fallback" aria-hidden="true">🐫</span>
+    <img src="book/colorful-illustrations/2026-09-25-hoofy-the-camel-and-the-helpful-hump/scene-01-cover.webp" alt="हूफ़ी ऊँट और मददगार कूबड़ — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-09-25-hoofy-the-camel-and-the-helpful-hump.html">हूफ़ी ऊँट और मददगार कूबड़</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-09-25-hoofy-the-camel-and-the-helpful-hump.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%B9%E0%A5%82%E0%A4%AB%E0%A4%BC%E0%A5%80%20%E0%A4%8A%E0%A4%81%E0%A4%9F%20%E0%A4%94%E0%A4%B0%20%E0%A4%AE%E0%A4%A6%E0%A4%A6%E0%A4%97%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A5%82%E0%A4%AC%E0%A4%A1%E0%A4%BC%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-09-25-hoofy-the-camel-and-the-helpful-hump.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="ब्रम्मू बिज्जू और फुसफुसाते चीड़ के पेड़ 2026-09-24-bram-the-badger-and-the-whispering-woods">
+  <a class="card-art" href="stories/2026-09-24-bram-the-badger-and-the-whispering-woods.html" aria-label="ब्रम्मू बिज्जू और फुसफुसाते चीड़ के पेड़">
+    <span class="fallback" aria-hidden="true">🦡</span>
+    <img src="book/colorful-illustrations/2026-09-24-bram-the-badger-and-the-whispering-woods/scene-01-cover.webp" alt="ब्रम्मू बिज्जू और फुसफुसाते चीड़ के पेड़ — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-09-24-bram-the-badger-and-the-whispering-woods.html">ब्रम्मू बिज्जू और फुसफुसाते चीड़ के पेड़</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-09-24-bram-the-badger-and-the-whispering-woods.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%82%20%E0%A4%AC%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A5%82%20%E0%A4%94%E0%A4%B0%20%E0%A4%AB%E0%A5%81%E0%A4%B8%E0%A4%AB%E0%A5%81%E0%A4%B8%E0%A4%BE%E0%A4%A4%E0%A5%87%20%E0%A4%9A%E0%A5%80%E0%A4%A1%E0%A4%BC%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%87%E0%A4%A1%E0%A4%BC%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-09-24-bram-the-badger-and-the-whispering-woods.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="टिल्ली कछुआ और दौड़ने वाला खरगोश 2026-09-23-tilly-the-tortoise-and-the-racing-hare">
+  <a class="card-art" href="stories/2026-09-23-tilly-the-tortoise-and-the-racing-hare.html" aria-label="टिल्ली कछुआ और दौड़ने वाला खरगोश">
+    <span class="fallback" aria-hidden="true">🐢</span>
+    <img src="book/colorful-illustrations/2026-09-23-tilly-the-tortoise-and-the-racing-hare/scene-01-cover.webp" alt="टिल्ली कछुआ और दौड़ने वाला खरगोश — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-09-23-tilly-the-tortoise-and-the-racing-hare.html">टिल्ली कछुआ और दौड़ने वाला खरगोश</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-09-23-tilly-the-tortoise-and-the-racing-hare.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%9F%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A4%9B%E0%A5%81%E0%A4%86%20%E0%A4%94%E0%A4%B0%20%E0%A4%A6%E0%A5%8C%E0%A4%A1%E0%A4%BC%E0%A4%A8%E0%A5%87%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%96%E0%A4%B0%E0%A4%97%E0%A5%8B%E0%A4%B6%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-09-23-tilly-the-tortoise-and-the-racing-hare.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="निया और ऊँघता तारा 2026-09-22-nia-and-the-sleepy-star">
+  <a class="card-art" href="stories/2026-09-22-nia-and-the-sleepy-star.html" aria-label="निया और ऊँघता तारा">
+    <span class="fallback" aria-hidden="true">⭐</span>
+    <img src="book/colorful-illustrations/2026-09-22-nia-and-the-sleepy-star/scene-01-cover.webp" alt="निया और ऊँघता तारा — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-09-22-nia-and-the-sleepy-star.html">निया और ऊँघता तारा</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-09-22-nia-and-the-sleepy-star.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%8A%E0%A4%81%E0%A4%98%E0%A4%A4%E0%A4%BE%20%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-09-22-nia-and-the-sleepy-star.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
+  </div>
+</section>
+<!-- DAILY-NEW-END -->
 
 <section class="category cat-night" id="cat-night">
   <h2>🌙 रात की कहानियाँ</h2>
