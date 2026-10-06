@@ -16,14 +16,8 @@ title: मीठे सपनों की कहानियाँ
 </div>
 
 <div class="book-banner">
-  <a href="book/night-time-stories.pdf">
-    <span class="cover-emoji">🌙</span>
-    <span>
-      <span class="flag">✨ ख़ास किताब</span>
-      <h2>🌙 रात की कहानियों की किताब</h2>
-      <p>एक ही खूबसूरत किताब में 26 सपनीली सुलाने वाली कहानियाँ — बत्ती बुझाकर पढ़ने के लिए बिल्कुल सही।</p>
-    </span>
-    <span class="go">→</span>
+  <a href="book/night-time-stories.pdf" aria-label="रात की कहानियों की किताब — एक ही किताब में 26 सपनीली सुलाने वाली कहानियाँ" style="display:block;padding:0;background:none;border:none;">
+    <img src="assets/night-time-stories-banner.jpg" alt="रात की कहानियों की किताब — एक ही किताब में 26 सपनीली सुलाने वाली कहानियाँ" style="width:100%;height:auto;display:block;border-radius:26px;box-shadow:0 12px 30px rgba(25,26,77,.18);" loading="eager" fetchpriority="high">
   </a>
 </div>
 
