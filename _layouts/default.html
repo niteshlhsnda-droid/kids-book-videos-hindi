@@ -13,6 +13,24 @@
 <footer class="site-foot">
   <div class="hearts">🌙 📚 ✨</div>
   <p>मीठे सपनों की कहानियाँ — 4–7 साल के बच्चों के लिए।<br>रोज़ नई कहानियाँ जुड़ती हैं।</p>
+  <p class="start-here-link">👋 <a href="/kids-book-videos-hindi/start-here/">नए हैं? यहाँ से शुरू करें</a></p>
 </footer>
+<div id="cc-banner" hidden>
+  <p>🍪 हम विज़िट समझने के लिए वैकल्पिक एनालिटिक्स कुकीज़ (PostHog) का उपयोग करते हैं। कोई विज्ञापन नहीं, कोई ट्रैकिंग नहीं।</p>
+  <div class="cc-buttons">
+    <button id="cc-accept" type="button">स्वीकार करें</button>
+    <button id="cc-decline" type="button">अस्वीकार करें</button>
+  </div>
+</div>
+<script>
+(function(){
+  var KEY="cc-consent",b=document.getElementById("cc-banner");
+  function hide(){b.hidden=true;}
+  var cur=null;try{cur=localStorage.getItem(KEY);}catch(e){}
+  if(!cur&&b){b.hidden=false;}
+  document.getElementById("cc-accept").addEventListener("click",function(){try{localStorage.setItem(KEY,"accepted");}catch(e){}hide();if(window.__loadPostHog)window.__loadPostHog();});
+  document.getElementById("cc-decline").addEventListener("click",function(){try{localStorage.setItem(KEY,"declined");}catch(e){}hide();});
+})();
+</script>
 </body>
 </html>
