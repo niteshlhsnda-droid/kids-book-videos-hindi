@@ -6,12 +6,12 @@ title: मीठे सपनों की कहानियाँ
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>मीठे सपनों की कहानियाँ</h1>
-  <p class="tagline">4–7 साल के बच्चों के लिए 339 हिंदी सुलाने वाली कहानियाँ — 158 मूल कहानियाँ और 181 कालजयी क्लासिक कहानियाँ।</p>
+  <p class="tagline">4–7 साल के बच्चों के लिए 340 हिंदी सुलाने वाली कहानियाँ — 159 मूल कहानियाँ और 181 कालजयी क्लासिक कहानियाँ।</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 कहानी खोजें…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 339 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
+  <p class="stats">📚 340 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
   
 </div>
 
@@ -25,6 +25,19 @@ title: मीठे सपनों की कहानियाँ
 <div class="no-results" id="no-results">😴 कोई कहानी नहीं मिली — कोई और शब्द आज़माएँ!</div>
 
 <!-- DAILY-NEW-START -->
+<article class="story-card" data-search="पिप्पा पैंगोलिन और लालटेन की सैर 2026-10-23-pippa-the-pangolin-and-the-lantern-walk">
+  <a class="card-art" href="stories/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.html" aria-label="पिप्पा पैंगोलिन और लालटेन की सैर">
+    <span class="fallback" aria-hidden="true">🏮</span>
+    <img src="book/colorful-illustrations/2026-10-23-pippa-the-pangolin-and-the-lantern-walk/scene-01-cover.webp" alt="पिप्पा पैंगोलिन और लालटेन की सैर — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.html">पिप्पा पैंगोलिन और लालटेन की सैर</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AA%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%BE%20%E0%A4%AA%E0%A5%88%E0%A4%82%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A4%BF%E0%A4%A8%20%E0%A4%94%E0%A4%B0%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%E0%A4%9F%E0%A5%87%E0%A4%A8%20%E0%A4%95%E0%A5%80%20%E0%A4%B8%E0%A5%88%E0%A4%B0%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-10-23-pippa-the-pangolin-and-the-lantern-walk.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
 <article class="story-card" data-search="टिंक बिल्ली और चिंता की पेटी 2026-10-21-tink-the-kitten-and-the-worry-box">
   <a class="card-art" href="stories/2026-10-21-tink-the-kitten-and-the-worry-box.html" aria-label="टिंक बिल्ली और चिंता की पेटी">
     <span class="fallback" aria-hidden="true">📦</span>
