@@ -6,12 +6,12 @@ title: मीठे सपनों की कहानियाँ
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>मीठे सपनों की कहानियाँ</h1>
-  <p class="tagline">4–7 साल के बच्चों के लिए 361 हिंदी सुलाने वाली कहानियाँ — 162 मूल कहानियाँ और 199 कालजयी क्लासिक कहानियाँ।</p>
+  <p class="tagline">4–7 साल के बच्चों के लिए 352 हिंदी सुलाने वाली कहानियाँ — 161 मूल कहानियाँ और 191 कालजयी क्लासिक कहानियाँ।</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 कहानी खोजें…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 361 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
+  <p class="stats">📚 352 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
   
 </div>
 
@@ -25,6 +25,19 @@ title: मीठे सपनों की कहानियाँ
 <div class="no-results" id="no-results">😴 कोई कहानी नहीं मिली — कोई और शब्द आज़माएँ!</div>
 
 <!-- DAILY-NEW-START -->
+<article class="story-card" data-search="बार्नबी ऊदबिलाव और अधूरा बाँध 2026-10-25-barnaby-the-beaver-and-the-half-finished-dam">
+  <a class="card-art" href="stories/2026-10-25-barnaby-the-beaver-and-the-half-finished-dam.html" aria-label="बार्नबी ऊदबिलाव और अधूरा बाँध">
+    <span class="fallback" aria-hidden="true">🦫</span>
+    <img src="book/colorful-illustrations/2026-10-25-barnaby-the-beaver-and-the-half-finished-dam/scene-01-cover.webp" alt="बार्नबी ऊदबिलाव और अधूरा बाँध — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-10-25-barnaby-the-beaver-and-the-half-finished-dam.html">बार्नबी ऊदबिलाव और अधूरा बाँध</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-10-25-barnaby-the-beaver-and-the-half-finished-dam.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%AC%E0%A5%80%20%E0%A4%8A%E0%A4%A6%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%B5%20%E0%A4%94%E0%A4%B0%20%E0%A4%85%E0%A4%A7%E0%A5%82%E0%A4%B0%E0%A4%BE%20%E0%A4%AC%E0%A4%BE%E0%A4%81%E0%A4%A7%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-10-25-barnaby-the-beaver-and-the-half-finished-dam.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
 <article class="story-card" data-search="ज़ोला और चाँद की रात वाली मुलाक़ात 2026-10-24-zola-and-the-moons-night-visit">
   <a class="card-art" href="stories/2026-10-24-zola-and-the-moons-night-visit.html" aria-label="ज़ोला और चाँद की रात वाली मुलाक़ात">
     <span class="fallback" aria-hidden="true">🌙</span>
@@ -1038,18 +1051,6 @@ title: मीठे सपनों की कहानियाँ
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%9C%E0%A5%81%E0%A4%97%E0%A4%A8%E0%A5%82%20%E0%A4%B2%E0%A5%82%E0%A4%AE%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%E0%A4%9F%E0%A5%87%E0%A4%A8%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%97%E0%A5%80%E0%A4%A4%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fluma-the-firefly-and-the-lantern-song.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="जूनो जेलीफ़िश और चमकता बगीचा juno-the-jellyfish-and-the-glowing-garden">
-  <a class="card-art" href="stories/juno-the-jellyfish-and-the-glowing-garden.html" aria-label="जूनो जेलीफ़िश और चमकता बगीचा">
-    <span class="fallback" aria-hidden="true">🌸</span>
-    <img src="book/colorful-illustrations/juno-the-jellyfish-and-the-glowing-garden/scene-01-cover.webp" alt="जूनो जेलीफ़िश और चमकता बगीचा — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/juno-the-jellyfish-and-the-glowing-garden.html">जूनो जेलीफ़िश और चमकता बगीचा</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/juno-the-jellyfish-and-the-glowing-garden.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%9C%E0%A5%82%E0%A4%A8%E0%A5%8B%20%E0%A4%9C%E0%A5%87%E0%A4%B2%E0%A5%80%E0%A4%AB%E0%A4%BC%E0%A4%BF%E0%A4%B6%20%E0%A4%94%E0%A4%B0%20%E0%A4%9A%E0%A4%AE%E0%A4%95%E0%A4%A4%E0%A4%BE%20%E0%A4%AC%E0%A4%97%E0%A5%80%E0%A4%9A%E0%A4%BE%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fjuno-the-jellyfish-and-the-glowing-garden.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
 </article><article class="story-card" data-search="टिमटिम जुगनू और खोई हुई लोरी flicker-the-firefly-and-the-lost-lullaby">
   <a class="card-art" href="stories/flicker-the-firefly-and-the-lost-lullaby.html" aria-label="टिमटिम जुगनू और खोई हुई लोरी">
     <span class="fallback" aria-hidden="true">✨</span>
@@ -1379,18 +1380,6 @@ title: मीठे सपनों की कहानियाँ
     <div class="card-actions">
       <a class="btn btn-read" href="stories/mira-the-mouse-and-the-moonlight-picnic.html">📖 पढ़ें</a>
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AE%E0%A5%80%E0%A4%B0%E0%A4%BE%20%E0%A4%9A%E0%A5%82%E0%A4%B9%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%9A%E0%A4%BE%E0%A4%81%E0%A4%A6%E0%A4%A8%E0%A5%80%20%E0%A4%AA%E0%A4%BF%E0%A4%95%E0%A4%A8%E0%A4%BF%E0%A4%95%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fmira-the-mouse-and-the-moonlight-picnic.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
-</article><article class="story-card" data-search="मीलो छछूँदर और चाँदनी का बगीचा milo-the-mole-and-the-moonlight-garden">
-  <a class="card-art" href="stories/milo-the-mole-and-the-moonlight-garden.html" aria-label="मीलो छछूँदर और चाँदनी का बगीचा">
-    <span class="fallback" aria-hidden="true">🌙</span>
-    <img src="book/colorful-illustrations/milo-the-mole-and-the-moonlight-garden/scene-01-cover.webp" alt="मीलो छछूँदर और चाँदनी का बगीचा — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/milo-the-mole-and-the-moonlight-garden.html">मीलो छछूँदर और चाँदनी का बगीचा</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/milo-the-mole-and-the-moonlight-garden.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AE%E0%A5%80%E0%A4%B2%E0%A5%8B%20%E0%A4%9B%E0%A4%9B%E0%A5%82%E0%A4%81%E0%A4%A6%E0%A4%B0%20%E0%A4%94%E0%A4%B0%20%E0%A4%9A%E0%A4%BE%E0%A4%81%E0%A4%A6%E0%A4%A8%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%AC%E0%A4%97%E0%A5%80%E0%A4%9A%E0%A4%BE%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fmilo-the-mole-and-the-moonlight-garden.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
 </article><article class="story-card" data-search="यारा याक और उबासी लेता चाँद yara-the-yak-and-the-yawning-moon">
@@ -3328,18 +3317,6 @@ title: मीठे सपनों की कहानियाँ
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%96%E0%A5%81%E0%A4%B6%20%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%A8%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%AE%E0%A5%80%E0%A4%9C%E0%A4%BC%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-shirt-of-a-happy-man.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="गधा और कुत्ता classic-the-donkey-and-the-dog">
-  <a class="card-art" href="stories/classic-the-donkey-and-the-dog.html" aria-label="गधा और कुत्ता">
-    <span class="fallback" aria-hidden="true">🐶</span>
-    <img src="book/colorful-illustrations/classic-the-donkey-and-the-dog/scene-01-cover.webp" alt="गधा और कुत्ता — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-the-donkey-and-the-dog.html">गधा और कुत्ता</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-the-donkey-and-the-dog.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%97%E0%A4%A7%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%95%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-donkey-and-the-dog.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
 </article><article class="story-card" data-search="गधा और नन्हा कुत्ता classic-the-donkey-and-the-lapdog">
   <a class="card-art" href="stories/classic-the-donkey-and-the-lapdog.html" aria-label="गधा और नन्हा कुत्ता">
     <span class="fallback" aria-hidden="true">🐶</span>
@@ -3772,18 +3749,6 @@ title: मीठे सपनों की कहानियाँ
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%A8%E0%A4%AE%E0%A4%95%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%80%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%97%E0%A4%A7%E0%A4%BE%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-donkey-and-the-load-of-salt.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="नसरुद्दीन अपनी चाबी ढूँढते हैं classic-nasruddin-looks-for-his-key">
-  <a class="card-art" href="stories/classic-nasruddin-looks-for-his-key.html" aria-label="नसरुद्दीन अपनी चाबी ढूँढते हैं">
-    <span class="fallback" aria-hidden="true">🔑</span>
-    <img src="book/colorful-illustrations/classic-nasruddin-looks-for-his-key/scene-01-cover.webp" alt="नसरुद्दीन अपनी चाबी ढूँढते हैं — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-nasruddin-looks-for-his-key.html">नसरुद्दीन अपनी चाबी ढूँढते हैं</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-nasruddin-looks-for-his-key.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%A8%E0%A4%B8%E0%A4%B0%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A5%80%E0%A4%A8%20%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%80%20%E0%A4%9A%E0%A4%BE%E0%A4%AC%E0%A5%80%20%E0%A4%A2%E0%A5%82%E0%A4%81%E0%A4%A2%E0%A4%A4%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-nasruddin-looks-for-his-key.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
 </article><article class="story-card" data-search="नसरुद्दीन और उनका कोट classic-nasruddin-and-his-coat">
   <a class="card-art" href="stories/classic-nasruddin-and-his-coat.html" aria-label="नसरुद्दीन और उनका कोट">
     <span class="fallback" aria-hidden="true">🧥</span>
@@ -4156,18 +4121,6 @@ title: मीठे सपनों की कहानियाँ
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%B9%20%E0%A4%A8%E0%A4%BE%E0%A4%9A%E0%A4%A8%E0%A5%87%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-twelve-dancing-princesses.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="बारह महीने classic-the-twelve-months">
-  <a class="card-art" href="stories/classic-the-twelve-months.html" aria-label="बारह महीने">
-    <span class="fallback" aria-hidden="true">❄️</span>
-    <img src="book/colorful-illustrations/classic-the-twelve-months/scene-01-cover.webp" alt="बारह महीने — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-the-twelve-months.html">बारह महीने</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-the-twelve-months.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%B9%20%E0%A4%AE%E0%A4%B9%E0%A5%80%E0%A4%A8%E0%A5%87%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-twelve-months.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
 </article><article class="story-card" data-search="बिना पूँछ वाली लोमड़ी classic-the-fox-without-a-tail">
   <a class="card-art" href="stories/classic-the-fox-without-a-tail.html" aria-label="बिना पूँछ वाली लोमड़ी">
     <span class="fallback" aria-hidden="true">🌙</span>
@@ -4329,18 +4282,6 @@ title: मीठे सपनों की कहानियाँ
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AC%E0%A5%80%E0%A4%B0%E0%A4%AC%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%AC%E0%A4%BE%E0%A4%A4%E0%A5%82%E0%A4%A8%E0%A5%80%20%E0%A4%A8%E0%A4%BE%E0%A4%88%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-birbal-and-the-talkative-barber.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="बीरबल और राजा का सपना classic-birbal-and-the-kings-dream">
-  <a class="card-art" href="stories/classic-birbal-and-the-kings-dream.html" aria-label="बीरबल और राजा का सपना">
-    <span class="fallback" aria-hidden="true">💭</span>
-    <img src="book/colorful-illustrations/classic-birbal-and-the-kings-dream/scene-01-cover.webp" alt="बीरबल और राजा का सपना — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-birbal-and-the-kings-dream.html">बीरबल और राजा का सपना</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-birbal-and-the-kings-dream.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AC%E0%A5%80%E0%A4%B0%E0%A4%AC%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BE%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A4%BE%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-birbal-and-the-kings-dream.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
 </article><article class="story-card" data-search="बीरबल की खिचड़ी classic-akbar-and-birbal-birbals-khichdi">
   <a class="card-art" href="stories/classic-akbar-and-birbal-birbals-khichdi.html" aria-label="बीरबल की खिचड़ी">
     <span class="fallback" aria-hidden="true">🌙</span>
@@ -4435,18 +4376,6 @@ title: मीठे सपनों की कहानियाँ
     <div class="card-actions">
       <a class="btn btn-read" href="stories/classic-the-old-vulture-and-the-cat.html">📖 पढ़ें</a>
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AC%E0%A5%82%E0%A4%A2%E0%A4%BC%E0%A4%BE%20%E0%A4%97%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%20%E0%A4%94%E0%A4%B0%20%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-old-vulture-and-the-cat.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
-</article><article class="story-card" data-search="बूढ़ा बाघ और सोने का कंगन classic-the-old-tiger-and-the-gold-bangle">
-  <a class="card-art" href="stories/classic-the-old-tiger-and-the-gold-bangle.html" aria-label="बूढ़ा बाघ और सोने का कंगन">
-    <span class="fallback" aria-hidden="true">🐯</span>
-    <img src="book/colorful-illustrations/classic-the-old-tiger-and-the-gold-bangle/scene-01-cover.webp" alt="बूढ़ा बाघ और सोने का कंगन — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-the-old-tiger-and-the-gold-bangle.html">बूढ़ा बाघ और सोने का कंगन</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-the-old-tiger-and-the-gold-bangle.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AC%E0%A5%82%E0%A4%A2%E0%A4%BC%E0%A4%BE%20%E0%A4%AC%E0%A4%BE%E0%A4%98%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A5%8B%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A4%BE%20%E0%A4%95%E0%A4%82%E0%A4%97%E0%A4%A8%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-old-tiger-and-the-gold-bangle.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
 </article><article class="story-card" data-search="बोलने वाली हाँडी classic-the-talking-pot">
@@ -4591,18 +4520,6 @@ title: मीठे सपनों की कहानियाँ
     <div class="card-actions">
       <a class="btn btn-read" href="stories/classic-sweet-porridge.html">📖 पढ़ें</a>
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A4%BE%20%E0%A4%A6%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-sweet-porridge.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
-</article><article class="story-card" data-search="मुर्गा और हीरा classic-the-cock-and-the-jewel">
-  <a class="card-art" href="stories/classic-the-cock-and-the-jewel.html" aria-label="मुर्गा और हीरा">
-    <span class="fallback" aria-hidden="true">🐓</span>
-    <img src="book/colorful-illustrations/classic-the-cock-and-the-jewel/scene-01-cover.webp" alt="मुर्गा और हीरा — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-the-cock-and-the-jewel.html">मुर्गा और हीरा</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-the-cock-and-the-jewel.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AE%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%B9%E0%A5%80%E0%A4%B0%E0%A4%BE%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-cock-and-the-jewel.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
 </article><article class="story-card" data-search="मुल्ला नसरुद्दीन और अँगूठी classic-nasruddin-and-the-ring">
@@ -5234,18 +5151,6 @@ title: मीठे सपनों की कहानियाँ
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%B9%E0%A4%82%E0%A4%B8%E0%A4%A8%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%89%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%82%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-swan-and-the-owl.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="हंसों वाली लड़की classic-the-goose-girl">
-  <a class="card-art" href="stories/classic-the-goose-girl.html" aria-label="हंसों वाली लड़की">
-    <span class="fallback" aria-hidden="true">🦢</span>
-    <img src="book/colorful-illustrations/classic-the-goose-girl/scene-01-cover.webp" alt="हंसों वाली लड़की — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-the-goose-girl.html">हंसों वाली लड़की</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-the-goose-girl.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%B9%E0%A4%82%E0%A4%B8%E0%A5%8B%E0%A4%82%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%B2%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A5%80%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-goose-girl.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
 </article><article class="story-card" data-search="हाथी और गौरैया classic-the-elephant-and-the-sparrow">
   <a class="card-art" href="stories/classic-the-elephant-and-the-sparrow.html" aria-label="हाथी और गौरैया">
     <span class="fallback" aria-hidden="true">🐜</span>
@@ -5868,18 +5773,6 @@ title: मीठे सपनों की कहानियाँ
     <div class="card-actions">
       <a class="btn btn-read" href="stories/classic-snow-white-and-rose-red.html">📖 पढ़ें</a>
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-snow-white-and-rose-red.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
-</article><article class="story-card" data-search="हिरन और शिकारी classic-the-deer-and-the-hunter">
-  <a class="card-art" href="stories/classic-the-deer-and-the-hunter.html" aria-label="हिरन और शिकारी">
-    <span class="fallback" aria-hidden="true">🦌</span>
-    <img src="book/colorful-illustrations/classic-the-deer-and-the-hunter/scene-01-cover.webp" alt="हिरन और शिकारी — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-the-deer-and-the-hunter.html">हिरन और शिकारी</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-the-deer-and-the-hunter.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%B9%E0%A4%BF%E0%A4%B0%E0%A4%A8%20%E0%A4%94%E0%A4%B0%20%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Fclassic-the-deer-and-the-hunter.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
 </article><article class="story-card" data-search="हीरे और मेंढक classic-diamonds-and-toads">
