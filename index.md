@@ -6,12 +6,12 @@ title: मीठे सपनों की कहानियाँ
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>मीठे सपनों की कहानियाँ</h1>
-  <p class="tagline">4–7 साल के बच्चों के लिए 374 हिंदी सुलाने वाली कहानियाँ — 166 मूल कहानियाँ और 208 कालजयी क्लासिक कहानियाँ।</p>
+  <p class="tagline">4–7 साल के बच्चों के लिए 375 हिंदी सुलाने वाली कहानियाँ — 166 मूल कहानियाँ और 209 कालजयी क्लासिक कहानियाँ।</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 कहानी खोजें…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 374 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
+  <p class="stats">📚 375 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
   
 </div>
 
@@ -25,6 +25,19 @@ title: मीठे सपनों की कहानियाँ
 <div class="no-results" id="no-results">😴 कोई कहानी नहीं मिली — कोई और शब्द आज़माएँ!</div>
 
 <!-- DAILY-NEW-START -->
+<article class="story-card" data-search="नन्हा भूरा बत्तख और चाँदनी झील 2026-10-28-the-little-grey-duckling-and-the-moonlit-lake">
+  <a class="card-art" href="stories/2026-10-28-the-little-grey-duckling-and-the-moonlit-lake.html" aria-label="नन्हा भूरा बत्तख और चाँदनी झील">
+    <span class="fallback" aria-hidden="true">🦆</span>
+    <img src="book/colorful-illustrations/2026-10-28-the-little-grey-duckling-and-the-moonlit-lake/scene-01-cover.webp" alt="नन्हा भूरा बत्तख और चाँदनी झील — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-10-28-the-little-grey-duckling-and-the-moonlit-lake.html">नन्हा भूरा बत्तख और चाँदनी झील</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-10-28-the-little-grey-duckling-and-the-moonlit-lake.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A4%BE%20%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE%20%E0%A4%AC%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%96%20%E0%A4%94%E0%A4%B0%20%E0%A4%9A%E0%A4%BE%E0%A4%81%E0%A4%A6%E0%A4%A8%E0%A5%80%20%E0%A4%9D%E0%A5%80%E0%A4%B2%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-10-28-the-little-grey-duckling-and-the-moonlit-lake.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
 <article class="story-card" data-search="ओली ऊदबिलाव और चाँदनी कंकड़ 2026-10-27-ollie-the-otter-and-the-moonlit-pebbles">
   <a class="card-art" href="stories/2026-10-27-ollie-the-otter-and-the-moonlit-pebbles.html" aria-label="ओली ऊदबिलाव और चाँदनी कंकड़">
     <span class="fallback" aria-hidden="true">🦦</span>
