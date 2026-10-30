@@ -1020,7 +1020,19 @@ title: मीठे सपनों की कहानियाँ
   <h2>📚 सोने की कहानियाँ</h2>
   <p class="desc">4–7 साल के बच्चों के लिए मूल प्यारी कहानियाँ।</p>
   <div class="cards">
-<article class="story-card" data-search="आइवी इगुआना और द्वीप की लोरी ivy-the-iguana-and-the-island-lullaby">
+<article class="story-card" data-search="अमारा आर्माडिलो और लुढ़कता तारा amara-the-armadillo-and-the-rolling-star">
+  <a class="card-art" href="stories/amara-the-armadillo-and-the-rolling-star.html" aria-label="अमारा आर्माडिलो और लुढ़कता तारा">
+    <span class="fallback" aria-hidden="true">⭐</span>
+    <img src="book/colorful-illustrations/amara-the-armadillo-and-the-rolling-star/scene-01-cover.webp" alt="अमारा आर्माडिलो और लुढ़कता तारा — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/amara-the-armadillo-and-the-rolling-star.html">अमारा आर्माडिलो और लुढ़कता तारा</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/amara-the-armadillo-and-the-rolling-star.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%85%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A1%E0%A4%BF%E0%A4%B2%E0%A5%8B%20%E0%A4%94%E0%A4%B0%20%E0%A4%B2%E0%A5%81%E0%A4%A2%E0%A4%BC%E0%A4%95%E0%A4%A4%E0%A4%BE%20%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Famara-the-armadillo-and-the-rolling-star.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article><article class="story-card" data-search="आइवी इगुआना और द्वीप की लोरी ivy-the-iguana-and-the-island-lullaby">
   <a class="card-art" href="stories/ivy-the-iguana-and-the-island-lullaby.html" aria-label="आइवी इगुआना और द्वीप की लोरी">
     <span class="fallback" aria-hidden="true">🦎</span>
     <img src="book/colorful-illustrations/ivy-the-iguana-and-the-island-lullaby/scene-01-cover.webp" alt="आइवी इगुआना और द्वीप की लोरी — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -1589,18 +1601,6 @@ title: मीठे सपनों की कहानियाँ
     <div class="card-actions">
       <a class="btn btn-read" href="stories/rosie-the-robin-and-the-raindrop-lullaby.html">📖 पढ़ें</a>
       <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC%E0%A5%80%20%E0%A4%B0%E0%A5%89%E0%A4%AC%E0%A4%BF%E0%A4%A8%20%E0%A4%94%E0%A4%B0%20%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%B6%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A5%82%E0%A4%81%E0%A4%A6%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%B2%E0%A5%8B%E0%A4%B0%E0%A5%80%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Frosie-the-robin-and-the-raindrop-lullaby.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
-    </div>
-  </div>
-</article><article class="story-card" data-search="लीना कैपीबारा और शांत नदी lena-the-capybara-and-the-calm-river">
-  <a class="card-art" href="stories/lena-the-capybara-and-the-calm-river.html" aria-label="लीना कैपीबारा और शांत नदी">
-    <span class="fallback" aria-hidden="true">🌊</span>
-    <img src="book/colorful-illustrations/lena-the-capybara-and-the-calm-river/scene-01-cover.webp" alt="लीना कैपीबारा और शांत नदी — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/lena-the-capybara-and-the-calm-river.html">लीना कैपीबारा और शांत नदी</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/lena-the-capybara-and-the-calm-river.html">📖 पढ़ें</a>
-      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BE%20%E0%A4%95%E0%A5%88%E0%A4%AA%E0%A5%80%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%B6%E0%A4%BE%E0%A4%82%E0%A4%A4%20%E0%A4%A8%E0%A4%A6%E0%A5%80%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2Flena-the-capybara-and-the-calm-river.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
     </div>
   </div>
 </article><article class="story-card" data-search="लीला लामा और लोरी वाली हवा lila-the-llama-and-the-lullaby-wind">
