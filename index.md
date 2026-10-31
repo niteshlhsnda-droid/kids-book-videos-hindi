@@ -6,12 +6,12 @@ title: मीठे सपनों की कहानियाँ
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>मीठे सपनों की कहानियाँ</h1>
-  <p class="tagline">4–7 साल के बच्चों के लिए 407 हिंदी सुलाने वाली कहानियाँ — 174 मूल कहानियाँ और 233 कालजयी क्लासिक कहानियाँ।</p>
+  <p class="tagline">4–7 साल के बच्चों के लिए 408 हिंदी सुलाने वाली कहानियाँ — 175 मूल कहानियाँ और 233 कालजयी क्लासिक कहानियाँ।</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 कहानी खोजें…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 407 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
+  <p class="stats">📚 408 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
   
 </div>
 
@@ -25,6 +25,19 @@ title: मीठे सपनों की कहानियाँ
 <div class="no-results" id="no-results">😴 कोई कहानी नहीं मिली — कोई और शब्द आज़माएँ!</div>
 
 <!-- DAILY-NEW-START -->
+<article class="story-card" data-search="क्लोवर चिपमंक और पत्तों की शांत रज़ाई 2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket">
+  <a class="card-art" href="stories/2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket.html" aria-label="क्लोवर चिपमंक और पत्तों की शांत रज़ाई">
+    <span class="fallback" aria-hidden="true">🐿️</span>
+    <img src="book/colorful-illustrations/2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket/scene-01-cover.webp" alt="क्लोवर चिपमंक और पत्तों की शांत रज़ाई — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket.html">क्लोवर चिपमंक और पत्तों की शांत रज़ाई</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%8B%E0%A4%B5%E0%A4%B0%20%E0%A4%9A%E0%A4%BF%E0%A4%AA%E0%A4%AE%E0%A4%82%E0%A4%95%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%B6%E0%A4%BE%E0%A4%82%E0%A4%A4%20%E0%A4%B0%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%88%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article>
 <article class="story-card" data-search="डस्टी गधा और ब्रेमेन बैंड 2026-10-30-dusty-the-donkey-and-the-bremen-band">
   <a class="card-art" href="stories/2026-10-30-dusty-the-donkey-and-the-bremen-band.html" aria-label="डस्टी गधा और ब्रेमेन बैंड">
     <span class="fallback" aria-hidden="true">🫏</span>
