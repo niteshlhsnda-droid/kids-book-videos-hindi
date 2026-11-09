@@ -1494,7 +1494,7 @@ title: मीठे सपनों की कहानियाँ
   </div>
 </article><article class="story-card" data-search="थियो कछुआ और छोटा सा बगीचा theo-the-turtle-and-the-tiny-garden">
   <a class="card-art" href="stories/theo-the-turtle-and-the-tiny-garden.html" aria-label="थियो कछुआ और छोटा सा बगीचा">
-    <span class="fallback" aria-hidden="true">🌸</span>
+    <span class="fallback" aria-hidden="true">🐢</span>
     <img src="book/colorful-illustrations/theo-the-turtle-and-the-tiny-garden/scene-01-cover.webp" alt="थियो कछुआ और छोटा सा बगीचा — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -1861,7 +1861,7 @@ title: मीठे सपनों की कहानियाँ
   </div>
 </article><article class="story-card" data-search="मिमी चूही और चाँदनी पिकनिक mimi-the-mouse-and-the-moonlight-picnic">
   <a class="card-art" href="stories/mimi-the-mouse-and-the-moonlight-picnic.html" aria-label="मिमी चूही और चाँदनी पिकनिक">
-    <span class="fallback" aria-hidden="true">🌙</span>
+    <span class="fallback" aria-hidden="true">🐭</span>
     <img src="book/colorful-illustrations/mimi-the-mouse-and-the-moonlight-picnic/scene-01-cover.webp" alt="मिमी चूही और चाँदनी पिकनिक — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -4780,7 +4780,7 @@ title: मीठे सपनों की कहानियाँ
   </div>
 </article><article class="story-card" data-search="तेनाली रामा और हाथी classic-tenali-rama-and-the-elephant">
   <a class="card-art" href="stories/classic-tenali-rama-and-the-elephant.html" aria-label="तेनाली रामा और हाथी">
-    <span class="fallback" aria-hidden="true">🐜</span>
+    <span class="fallback" aria-hidden="true">🐘</span>
     <img src="book/colorful-illustrations/classic-tenali-rama-and-the-elephant/scene-01-cover.webp" alt="तेनाली रामा और हाथी — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
