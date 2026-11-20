@@ -7,12 +7,12 @@ title: मीठे सपनों की कहानियाँ
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>मीठे सपनों की कहानियाँ</h1>
-  <p class="tagline">4–7 साल के बच्चों के लिए 617 हिंदी सुलाने वाली कहानियाँ — 236 मूल कहानियाँ और 381 कालजयी क्लासिक कहानियाँ।</p>
+  <p class="tagline">4–7 साल के बच्चों के लिए 618 हिंदी सुलाने वाली कहानियाँ — 237 मूल कहानियाँ और 381 कालजयी क्लासिक कहानियाँ।</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 कहानी खोजें…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 617 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
+  <p class="stats">📚 618 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
   
 </div>
 
@@ -26,7 +26,19 @@ title: मीठे सपनों की कहानियाँ
 <div class="no-results" id="no-results">😴 कोई कहानी नहीं मिली — कोई और शब्द आज़माएँ!</div>
 
 <!-- DAILY-NEW-START -->
-<article class="story-card" data-search="डोरोथी और मकई के खेत में स्केयरक्रो 2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield">
+<article class="story-card" data-search="छोटी मेंढकी फ़ेय और जुगनुओं का नाच 2026-11-20-faye-the-little-frog-and-the-firefly-dance">
+  <a class="card-art" href="stories/2026-11-20-faye-the-little-frog-and-the-firefly-dance.html" aria-label="छोटी मेंढकी फ़ेय और जुगनुओं का नाच">
+    <span class="fallback" aria-hidden="true">🐸</span>
+    <img src="book/colorful-illustrations/2026-11-20-faye-the-little-frog-and-the-firefly-dance/scene-01-cover.webp" alt="छोटी मेंढकी फ़ेय और जुगनुओं का नाच — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-11-20-faye-the-little-frog-and-the-firefly-dance.html">छोटी मेंढकी फ़ेय और जुगनुओं का नाच</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-11-20-faye-the-little-frog-and-the-firefly-dance.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%80%20%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%A2%E0%A4%95%E0%A5%80%20%E0%A4%AB%E0%A4%BC%E0%A5%87%E0%A4%AF%20%E0%A4%94%E0%A4%B0%20%E0%A4%9C%E0%A5%81%E0%A4%97%E0%A4%A8%E0%A5%81%E0%A4%93%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%A8%E0%A4%BE%E0%A4%9A%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-11-20-faye-the-little-frog-and-the-firefly-dance.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article><article class="story-card" data-search="डोरोथी और मकई के खेत में स्केयरक्रो 2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield">
   <a class="card-art" href="stories/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield.html" aria-label="डोरोथी और मकई के खेत में स्केयरक्रो">
     <span class="fallback" aria-hidden="true">🌽</span>
     <img src="book/colorful-illustrations/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield/scene-01-cover.webp" alt="डोरोथी और मकई के खेत में स्केयरक्रो — cover art" loading="lazy" onerror="this.style.display='none'">
