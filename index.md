@@ -7,12 +7,12 @@ title: मीठे सपनों की कहानियाँ
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>मीठे सपनों की कहानियाँ</h1>
-  <p class="tagline">4–7 साल के बच्चों के लिए 661 हिंदी सुलाने वाली कहानियाँ — 247 मूल कहानियाँ और 414 कालजयी क्लासिक कहानियाँ।</p>
+  <p class="tagline">4–7 साल के बच्चों के लिए 662 हिंदी सुलाने वाली कहानियाँ — 248 मूल कहानियाँ और 414 कालजयी क्लासिक कहानियाँ।</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 कहानी खोजें…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 661 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
+  <p class="stats">📚 662 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
   
 </div>
 
@@ -26,7 +26,19 @@ title: मीठे सपनों की कहानियाँ
 <div class="no-results" id="no-results">😴 कोई कहानी नहीं मिली — कोई और शब्द आज़माएँ!</div>
 
 <!-- DAILY-NEW-START -->
-<article class="story-card" data-search="डॉक्टर डूलिटिल और बोलने वाला तोता 2026-11-23-doctor-dolittle-and-the-talking-parrot">
+<article class="story-card" data-search="ज़ुज़ू हमिंगबर्ड और जुगनुओं का नाच 2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance">
+  <a class="card-art" href="stories/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance.html" aria-label="ज़ुज़ू हमिंगबर्ड और जुगनुओं का नाच">
+    <span class="fallback" aria-hidden="true">🐦</span>
+    <img src="book/colorful-illustrations/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance/scene-01-cover.webp" alt="ज़ुज़ू हमिंगबर्ड और जुगनुओं का नाच — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance.html">ज़ुज़ू हमिंगबर्ड और जुगनुओं का नाच</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%9C%E0%A4%BC%E0%A5%81%E0%A4%9C%E0%A4%BC%E0%A5%82%20%E0%A4%B9%E0%A4%AE%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%94%E0%A4%B0%20%E0%A4%9C%E0%A5%81%E0%A4%97%E0%A4%A8%E0%A5%81%E0%A4%93%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%A8%E0%A4%BE%E0%A4%9A%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article><article class="story-card" data-search="डॉक्टर डूलिटिल और बोलने वाला तोता 2026-11-23-doctor-dolittle-and-the-talking-parrot">
   <a class="card-art" href="stories/2026-11-23-doctor-dolittle-and-the-talking-parrot.html" aria-label="डॉक्टर डूलिटिल और बोलने वाला तोता">
     <span class="fallback" aria-hidden="true">🦜</span>
     <img src="book/colorful-illustrations/2026-11-23-doctor-dolittle-and-the-talking-parrot/scene-01-cover.webp" alt="डॉक्टर डूलिटिल और बोलने वाला तोता — cover art" loading="lazy" onerror="this.style.display='none'">
