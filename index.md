@@ -7,12 +7,12 @@ title: मीठे सपनों की कहानियाँ
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>मीठे सपनों की कहानियाँ</h1>
-  <p class="tagline">4–7 साल के बच्चों के लिए 672 हिंदी सुलाने वाली कहानियाँ — 254 मूल कहानियाँ और 418 कालजयी क्लासिक कहानियाँ।</p>
+  <p class="tagline">4–7 साल के बच्चों के लिए 673 हिंदी सुलाने वाली कहानियाँ — 254 मूल कहानियाँ और 419 कालजयी क्लासिक कहानियाँ।</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 कहानी खोजें…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 672 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
+  <p class="stats">📚 673 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ<span id="result-count"></span></p>
   
 </div>
 
@@ -26,7 +26,19 @@ title: मीठे सपनों की कहानियाँ
 <div class="no-results" id="no-results">😴 कोई कहानी नहीं मिली — कोई और शब्द आज़माएँ!</div>
 
 <!-- DAILY-NEW-START -->
-<article class="story-card" data-search="ज़ुज़ू हमिंगबर्ड और जुगनुओं का नाच 2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance">
+<article class="story-card" data-search="मछुआरा और जिन्न 2026-11-25-the-fisherman-and-the-jinni">
+  <a class="card-art" href="stories/2026-11-25-the-fisherman-and-the-jinni.html" aria-label="मछुआरा और जिन्न">
+    <span class="fallback" aria-hidden="true">🐟</span>
+    <img src="book/colorful-illustrations/2026-11-25-the-fisherman-and-the-jinni/scene-01-cover.webp" alt="मछुआरा और जिन्न — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-11-25-the-fisherman-and-the-jinni.html">मछुआरा और जिन्न</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-11-25-the-fisherman-and-the-jinni.html">📖 पढ़ें</a>
+      <a class="btn btn-share" href="https://wa.me/?text=%E0%A4%AE%E0%A4%9B%E0%A5%81%E0%A4%86%E0%A4%B0%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%9C%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A8%20%E2%80%94%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%87%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos-hindi%2Fstories%2F2026-11-25-the-fisherman-and-the-jinni.html" target="_blank" rel="noopener" title="WhatsApp पर भेजें" aria-label="WhatsApp पर भेजें">📲</a>
+    </div>
+  </div>
+</article><article class="story-card" data-search="ज़ुज़ू हमिंगबर्ड और जुगनुओं का नाच 2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance">
   <a class="card-art" href="stories/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance.html" aria-label="ज़ुज़ू हमिंगबर्ड और जुगनुओं का नाच">
     <span class="fallback" aria-hidden="true">🐦</span>
     <img src="book/colorful-illustrations/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance/scene-01-cover.webp" alt="ज़ुज़ू हमिंगबर्ड और जुगनुओं का नाच — cover art" loading="lazy" onerror="this.style.display='none'">
